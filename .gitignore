@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Java
+*.class
+*.jar
+*.war
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
